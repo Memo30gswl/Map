@@ -1,0 +1,45 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "team": "Los Angeles Lakers",
+        "city": "Los Angeles",
+        "arena": "Crypto.com Arena",
+        "championships": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2673, 34.0430]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "team": "Boston Celtics",
+        "city": "Boston",
+        "arena": "TD Garden",
+        "championships": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0622, 42.3662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "team": "Golden State Warriors",
+        "city": "San Francisco",
+        "arena": "Chase Center",
+        "championships": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3870, 37.7680]
+      }
+    }
+  ]
+}
